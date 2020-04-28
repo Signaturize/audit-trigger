@@ -1,0 +1,1 @@
+SELECT audit.audit_table('target_table_name');
